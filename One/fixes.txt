@@ -1,0 +1,8 @@
+Hello i am a new file which will used to fixes the bug.
+Added up another fixed bug.
+<<<<<<< HEAD
+Fixed another bug.
+Fixed the fourth bug.
+=======
+Added up the fourth bug with solution.
+>>>>>>> bug-fix
